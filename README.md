@@ -16,7 +16,7 @@ What’s inside this repo
 
 Connect with me
 
-- [LinkedIn]. (Bakare Sodiq Adeniyi | LinkedIn)
+- [LinkedIn]. (https://www.linkedin.com/in/bakare-sodiq-adeniyi-981b22151/)
 - Email: sodiqsammy@gmail.com
 
 
