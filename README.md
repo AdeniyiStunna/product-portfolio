@@ -1,48 +1,45 @@
-Bakare Sodiq Adeniyi
-Product Manager | Building for the African Mobility Ecosystem
+# Bakare Sodiq Adeniyi
 
-I am a certified Product Manager and a 300 level student at the University of Lagos. My focus is on turning complex user problems into actionable, data driven product roadmaps. 
+**Product Manager | Building for African Mobility**
 
-Currently, I am building solutions for the Nigerian transport sector.
+I am a certified Product Manager and a 300-level student at the University of Lagos. I turn complex user problems into clear product strategies, practical roadmaps, and measurable outcomes.
 
-FEATURED PROJECT: DriveGuard
+My current focus is building solutions for Nigeria’s transport sector.
 
-DriveGuard is a mobile first financial companion designed for ride hailing drivers (Bolt, inDrive) in Lagos, Nigeria.
+## Featured Project: DriveGuard
 
-The Problem
-Since Uber's exit from Nigeria, ride hailing drivers face a critical financial crisis. While platforms report high gross earnings, our field research revealed that fuel costs and platform commissions consume over 50% of a driver's daily revenue. 
+DriveGuard is a mobile-first financial companion for ride-hailing drivers in Lagos, including Bolt and inDrive drivers. It helps drivers understand what they actually take home after accounting for the costs of working.
 
-Drivers are working 10+ hour shifts and returning home with zero buffer for vehicle maintenance or emergencies. The platforms are masking the truth with fake Net Income numbers.
+### The opportunity
 
-The Solution
-DriveGuard exposes the truth. It calculates a driver's True Estimated Net Take Home and their Keep Rate by automatically deducting fuel, food and hidden operating costs. 
+Conversations with drivers surfaced a gap between reported gross fares and the money available after expenses. Fuel, platform commissions, food, and other operating costs can consume a substantial share of daily earnings. Long shifts and limited financial buffers can leave drivers unprepared for vehicle maintenance and emergencies.
 
-My Role & Execution
-I led the end to end product lifecycle:
-- Conducted 10+ in depth interviews with active Bolt and inDrive drivers.
-- Wrote a comprehensive PRD and prioritized features using MoSCoW and Jira sprints.
-- Leveraged AI (Gemini) to generate a fully functional React prototype, built entirely from a mobile phone.
-- Currently running a 5 day Concierge MVP pilot tracking daily earnings via WhatsApp.
+### The product
 
-The Impact
-Our pilot data showed a driver making ₦45,400 in gross fares, but spending ₦20,700 on fuel alone. The DriveGuard roadmap aims to reduce income fluctuation by an estimated 20-30% within three months of adoption.
+DriveGuard estimates take-home income and a driver’s keep rate by accounting for fuel, food, and other operating costs. The goal is to make the real cost of each working day visible and support better financial decisions.
 
+### My role
 
-What’s inside this repo
+I led the product work from discovery through early validation:
 
- [User personas for DriveGuard]. ( https://trello.com/invite/b/69a057238df42e10e0ad1d39/ATTI04ac7e66456dd08d88df0a8fd6d2834f039BDE81/Project:%20Driver%E2%80%99s%20Income%20Stability%20(NG)) based on interviews with Lagos drivers 
+- Conducted more than 10 in-depth interviews with active Bolt and inDrive drivers.
+- Developed the product requirements document and prioritized features using MoSCoW.
+- Organized delivery into Jira sprints.
+- Built a functional React prototype with Gemini, working entirely from a mobile phone.
+- Started a five-day concierge MVP pilot, tracking daily earnings through WhatsApp.
 
-(Link to JIRA) 
-https://driveguard-product.atlassian.net/jira/core/projects/DRIVEG/summary?atlOrigin=eyJpIjoiMzRBRkI1NzNBQkIwNDIxQjkwMjNCRUQ4MzUxRDc4Q0IiLCJwIjoiaiJ9
- 
- 
- (More files will be added soon – product roadmap, metrics, etc.)
+### Early learning and next steps
 
-Connect with me
+In one pilot example, a driver reported ₦45,400 in gross fares and ₦20,700 in fuel costs. This illustrates why gross earnings alone do not tell the full story; it is an early example, not a representative result.
 
-- [LinkedIn]. (https://www.linkedin.com/in/bakare-sodiq-adeniyi-981b22151/)
-- Email: sodiqsammy@gmail.com
+The roadmap includes a target of reducing income fluctuations by 20–30% within three months of adoption. This is a goal to validate through further pilot data, not a measured outcome.
 
+## Project resources
 
+- [DriveGuard user personas and project materials](https://trello.com/invite/b/69a057238df42e10e0ad1d39/ATTI04ac7e66456dd08d88df0a8fd6d2834f039BDE81/Project:%20Driver%E2%80%99s%20Income%20Stability%20(NG))
+- [DriveGuard Jira project](https://driveguard-product.atlassian.net/jira/core/projects/DRIVEG/summary?atlOrigin=eyJpIjoiMzRBRkI1NzNBQkIwNDIxQjkwMjNCRUQ4MzUxRDc4Q0IiLCJwIjoiaiJ9)
 
-The world belongs to those who believe in the beauty of their future.
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/bakare-sodiq-adeniyi-981b22151/)
+- [Email](mailto:sodiqsammy@gmail.com)
