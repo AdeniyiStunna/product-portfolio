@@ -1,20 +1,32 @@
-Bakare Sodiq
+Bakare Sodiq Adeniyi
+Product Manager | Building for the African Mobility Ecosystem
 
- Product Management Portfolio
- 
-Welcome to my PM portfolio. I’m a Product Management certified professional and a 200 level student at the University of Lagos.
+I am a certified Product Manager and a 300 level student at the University of Lagos. My focus is on turning complex user problems into actionable, data driven product roadmaps. 
 
- Featured Project: DriveGuard
+Currently, I am building solutions for the Nigerian transport sector.
 
-Problem:
+FEATURED PROJECT: DriveGuard
 
-Ride hailing drivers in Lagos face unpredictable income due to demand fluctuations, high commission fees and lack of financial buffers.
+DriveGuard is a mobile first financial companion designed for ride hailing drivers (Bolt, inDrive) in Lagos, Nigeria.
 
-My role: Led end to end product thinking user research,persona creation,feature prioritization (MoSCoW) and success metrics definition.
+The Problem
+Since Uber's exit from Nigeria, ride hailing drivers face a critical financial crisis. While platforms report high gross earnings, our field research revealed that fuel costs and platform commissions consume over 50% of a driver's daily revenue. 
 
-Outcome:
+Drivers are working 10+ hour shifts and returning home with zero buffer for vehicle maintenance or emergencies. The platforms are masking the truth with fake Net Income numbers.
 
-A validated product roadmap that could reduce income fluctuation by an estimated 20‑30%.
+The Solution
+DriveGuard exposes the truth. It calculates a driver's True Estimated Net Take Home and their Keep Rate by automatically deducting fuel, food and hidden operating costs. 
+
+My Role & Execution
+I led the end to end product lifecycle:
+- Conducted 10+ in depth interviews with active Bolt and inDrive drivers.
+- Wrote a comprehensive PRD and prioritized features using MoSCoW and Jira sprints.
+- Leveraged AI (Gemini) to generate a fully functional React prototype, built entirely from a mobile phone.
+- Currently running a 5 day Concierge MVP pilot tracking daily earnings via WhatsApp.
+
+The Impact
+Our pilot data showed a driver making ₦45,400 in gross fares, but spending ₦20,700 on fuel alone. The DriveGuard roadmap aims to reduce income fluctuation by an estimated 20-30% within three months of adoption.
+
 
 What’s inside this repo
 
