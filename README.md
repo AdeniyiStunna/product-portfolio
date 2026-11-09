@@ -37,8 +37,7 @@ The roadmap includes a target of reducing income fluctuations by 20–30% within
 ## Project resources
 
 - [DriveGuard user personas and project materials](https://trello.com/invite/b/69a057238df42e10e0ad1d39/ATTI04ac7e66456dd08d88df0a8fd6d2834f039BDE81/Project:%20Driver%E2%80%99s%20Income%20Stability%20(NG))
-- [DriveGuard Jira project](https://driveguard-product.atlassian.net/jira/core/projects/DRIVEG/summary?atlOrigin=eyJpIjoiMzRBRkI1NzNBQkIwNDIxQjkwMjNCRUQ4MzUxRDc4Q0IiLCJwIjoiaiJ9)
-
+- [DriveGuard Jira project]https://driveg.atlassian.net/jira/software/projects/DM/boards/1
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/bakare-sodiq-adeniyi-981b22151/)
